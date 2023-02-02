@@ -13,3 +13,5 @@
 <br>
 <br>
 <h2>📲📲ADPTAÇÃO do celulares e tablet📱📱<h2>
+<br>
+<img src="https://github.com/TamiresValentim/projeto-wecareyour-dev/blob/master/img/SITE%20ADPTADO%20DESAFIO%20FEITO.png?raw=true alt="celular">
